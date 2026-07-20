@@ -32,3 +32,13 @@ Fight Moneyは、親子でお手伝いとおこづかいを管理するための
 Chart.js
 
 Chart.jsを使用し、曜日ごとのお手伝い回数を棒グラフで表示しています。
+
+## 公開ページ
+
+https://sumireiwasaki.github.io/homepage_FightMoney/app.html
+
+---
+
+## GitHub
+
+https://github.com/SumireIwasaki/homepage_FightMoney
