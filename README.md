@@ -7,7 +7,7 @@ Fight Moneyは、親子でお手伝いとおこづかいを管理するための
 今回のページでは、JavaScriptライブラリのChart.jsを使用し、
 お手伝い回数をグラフで分かりやすく表示しました。
 
-##　画像イメージ
+## 画面イメージ
 <img width="1307" height="793" alt="スクリーンショット 2026-07-20 16 45 16" src="https://github.com/user-attachments/assets/a2b18494-4ef0-4682-baee-195225ff760f" />
 
 
